@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5041feda-07d5-4571-84b6-f5a45c5ef860" name="Default Changelist" comment="" />
+    <list default="true" id="5041feda-07d5-4571-84b6-f5a45c5ef860" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpcclient/ApiRegistry.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpcclient/ApiRegistry.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpcclient/Common.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpcclient/Common.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grpcclient/ValidateClient.go" beforeDir="false" afterPath="$PROJECT_DIR$/grpcclient/ValidateClient.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +48,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
